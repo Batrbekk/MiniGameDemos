@@ -1,2 +1,2 @@
 # MiniGameDemos
-Some mini game for Unity learning and practice
+Some mini games for Unity learning and practice
